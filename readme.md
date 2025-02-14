@@ -7,7 +7,9 @@
 
 <div align="center">
   
-  <a href="https://komarev.com/ghpvc/?username=alfthrpy&color=orange&label=Profile+Visit&abbreviated=true">![](https://komarev.com/ghpvc/?username=alfthrpy&color=orange&label=Profile+Visit&abbreviated=true) </a> </br>
+  <a href="https://komarev.com/ghpvc/?username=alfthrpy&color=orange&label=Profile+Visit&abbreviated=true">![](https://komarev.com/ghpvc/?username=alfthrpy&color=orange&label=Profile+Visit&abbreviated=true) 
+  <a href="https://wakatime.com/@7de28ea7-0afc-4302-b66d-ea7e39773fd4"><img src="https://wakatime.com/badge/user/7de28ea7-0afc-4302-b66d-ea7e39773fd4.svg" alt="Total time coded since Dec 3 2024" /></a>
+  </a> </br>
   <a href="https://t.me/alfthrpy"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/alfthrpy/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://instagram.com/alfthrpy"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
