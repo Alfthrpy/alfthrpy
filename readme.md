@@ -26,11 +26,12 @@ University student, 22 years old, specializing in **Machine Learning** and **Bac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
   <img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&theme=github_dark_dimmed" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfthrpy&theme=github-compact" /> 
-
-
-
+  <img src="https://img.shields.io/badge/Semester-Feb–Jun%202025-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos%20Created-4-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hours%20on%20WakaTime-201h-orange?style=flat-square" />
 
 </p>
+
 
 ## 🏆 Trophies 
 
