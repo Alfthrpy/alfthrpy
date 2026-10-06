@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Rizki%20Al-Fathir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Engineer+%40+Urbansolv;Machine+Learning+Engineer;I+build+data+pipelines+%26+AI+systems;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Engineer+%40+Urbansolv;Machine+Learning+Engineer;I+build+data+pipelines+%26+AI+systems;Open+to+work" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,11 +11,11 @@
 
 </div>
 
-## 🚀 About Me
+## About
 
 Informatics Engineering graduate (UIN Sunan Gunung Jati Bandung, GPA 3.90) working as a **Backend Engineer at Urbansolv** — building REST APIs with NestJS and spatial data systems with PostgreSQL/PostGIS. Previously interned at **Tritronik Indonesia**, architecting a high-throughput event-driven data pipeline on Apache Kafka. I also build agentic AI pipelines (my thesis [STUD](https://github.com/Alfthrpy/STUD)) and freelance web apps on the side.
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -23,7 +23,7 @@ Informatics Engineering graduate (UIN Sunan Gunung Jati Bandung, GPA 3.90) worki
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&langs_count=8&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🛠️ Tech Stack
+## Stack
 
 <div align="center">
 
@@ -46,14 +46,14 @@ Informatics Engineering graduate (UIN Sunan Gunung Jati Bandung, GPA 3.90) worki
 
 </div>
 
-## 🏆 Selected Projects
+## Projects
 
 - **[STUD](https://github.com/Alfthrpy/STUD)** — Multi-agent AI pipeline (undergraduate thesis) that decomposes courses into atomic concepts and generates RAG-grounded slide decks.
-- **[Tenangin](https://github.com/Tenangin)** — Mental-health platform with AI counselor chatbot. 🥇 Gold medal, IICYMS 2025 (Social Science).
+- **[Tenangin](https://github.com/Tenangin)** — Mental-health platform with AI counselor chatbot. Gold medal, IICYMS 2025 (Social Science).
 - **[Purrduli — Platform Infrastructure](https://github.com/purrstations/infra-purrduli)** — Production live-streaming infra: Docker, Nginx + TLS, MediaMTX, MQTT, PostgreSQL, Redis.
 - **[AnonTweet](https://github.com/Alfthrpy/AnonTweet)** — Anonymous messaging app, live on Play Store.
 
-## 📫 Connect with Me
+## Contact
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Informatics Engineering graduate (UIN Sunan Gunung Jati Bandung, GPA 3.90) worki
 
 </div>
 
-## 🐍 Contribution Snake
+## Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Alfthrpy/alfthrpy/output/github-snake.svg" alt="Snake animation" />
