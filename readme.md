@@ -1,45 +1,40 @@
-<div align="center" style="margin: 0; padding: 0;">
-  <h5 style="margin: 0; padding: 0;">My name is</h5>
-  <h1 align="center" style="margin: 0; padding: 0;">Muhammad Rizki Al-Fathir</h1>
-  <h2 style="margin: 0; padding: 0;">I build things in AI and Web</h2>  
-</div>
-
-
 <div align="center">
-  
-  <a href="https://komarev.com/ghpvc/?username=alfthrpy&color=orange&label=Profile+Visit&abbreviated=true">![](https://komarev.com/ghpvc/?username=alfthrpy&color=orange&label=Profile+Visit&abbreviated=true) 
-  <a href="https://wakatime.com/@7de28ea7-0afc-4302-b66d-ea7e39773fd4"><img src="https://wakatime.com/badge/user/7de28ea7-0afc-4302-b66d-ea7e39773fd4.svg" alt="Total time coded since Dec 3 2024" /></a>
-  </a> </br>
-  <a href="https://t.me/alfthrpy"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/alfthrpy/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
-  <a href="https://instagram.com/alfthrpy"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+
+# MUHAMMAD RIZKI AL-FATHIR
+
+**Backend and ML Engineer — Bandung, ID**
+
+[![wakatime](https://wakatime.com/badge/user/7de28ea7-0afc-4302-b66d-ea7e39773fd4.svg)](https://wakatime.com/@7de28ea7-0afc-4302-b66d-ea7e39773fd4)
+![](https://komarev.com/ghpvc/?username=alfthrpy&color=black&label=PROFILE+VISITS)
+
 </div>
-  
-## 📙 About
 
-University student, 22 years old, specializing in **Machine Learning** and **Backend Development**. I have been learning backend development and exploring machine learning for several years. Currently, I'm building projects to enhance my skills, with a strong focus on Python, React, and TypeScript. I am passionate about backend engineering and am constantly improving my technical abilities.
+| | |
+| --- | --- |
+| BASE | Bandung, ID |
+| FOCUS | Backend / ML / Agentic AI |
+| STATUS | Open to work |
+| SITE | [alfthrpy.my.id](https://alfthrpy.my.id/) |
 
-## 📊 Stats
+## WORK
 
-<p style="text-align:center;">
-  <img src="https://streak-stats.demolab.com?user=alfthrpy&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfthrpy&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px />
-  <img src="https://github-readme-stats.vercel.app/api?username=alfthrpy&theme=github_dark_dimmed" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfthrpy&theme=github-compact" /> 
+- **Backend Engineer** — [Urbansolv.](https://urbansolv.co.id/) · Sep 2026 — Present
+- **Intern Backend Engineer** — [Tritronik Indonesia](https://www.tritronik.com/) · Feb 2026 — Jul 2026
+- **Freelance Web Developer** — Self-employed · Oct 2024 — Present
 
-</p>
+## SELECTED PROJECTS
 
+- **[STUD](https://github.com/Alfthrpy/STUD)** — Multi-agent AI pipeline (undergraduate thesis) that decomposes courses into atomic concepts and generates RAG-grounded slide decks.
+- **[Tenangin](https://github.com/Tenangin)** — Mental-health platform with AI counselor chatbot. Gold medal, IICYMS 2025 (Social Science).
+- **[Purrduli — Platform Infrastructure](https://github.com/purrstations/infra-purrduli)** — Production live-streaming infra: Docker, Nginx + TLS, MediaMTX, MQTT, PostgreSQL, Redis.
+- **[AnonTweet](https://github.com/Alfthrpy/AnonTweet)** — Anonymous messaging app, live on Play Store.
 
-## 🏆 Trophies 
+## STACK
 
-<p style="text-align:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfthrpy&theme=juicyfresh&row=2&column=7">
-</p>
+**Languages:** Python · Java · TypeScript · JavaScript · PHP
+**Backend & Data:** NestJS · Kafka · PostgreSQL · PostGIS · Prisma · Redis · MongoDB · MySQL · Pandas
+**Infra & Tools:** Docker · Nginx · Grafana · Git · React · Next.js · Laravel · TailwindCSS
 
-### Credit
+## CONTACT
 
-This profile README template was inspired by [xecureyan](https://github.com/xecureyan1337). Thank you for providing such a great template!
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-</div>  
+[Telegram](https://t.me/alfthrpy) · [LinkedIn](https://www.linkedin.com/in/alfthrpy/) · [Instagram](https://instagram.com/alfthrpy) · [Email](mailto:alfthr378@gmail.com)
