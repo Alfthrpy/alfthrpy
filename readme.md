@@ -65,4 +65,10 @@ Informatics Engineering graduate (UIN Sunan Gunung Jati Bandung, GPA 3.90) worki
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alfthrpy/alfthrpy/output/github-snake.svg" alt="Snake animation" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
